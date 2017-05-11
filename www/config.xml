@@ -16,9 +16,10 @@
 
     <content src="https://tictactoe.ygame.us/?phonegapPlugins=v105" />
     
-    <name>Tic Tac Toe</name>
-    <author email="yoav.zibin@gmail.com">
-        yoav.zibin@gmail.com
+    <name>Aircraft Battle</name>
+    <author email="of394@nyu.edu+xi.huang@nyu.edu">
+        of394@nyu.edu
+        xi.huang@nyu.edu
     </author>
 
     <preference name="android-build-tool" value="gradle" />
